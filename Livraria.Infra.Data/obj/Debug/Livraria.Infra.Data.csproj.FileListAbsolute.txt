@@ -1,0 +1,12 @@
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.Data.dll.config
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.Data.dll
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.Data.pdb
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\EntityFramework.dll
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Domain.dll
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Domain.pdb
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\EntityFramework.xml
+C:\TCC\Livraria\Livraria.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TCC\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csprojResolveAssemblyReference.cache
+C:\TCC\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.dll
+C:\TCC\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.pdb

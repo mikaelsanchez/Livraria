@@ -1,0 +1,9 @@
+C:\TCC\Livraria\Livraria.Application\bin\Debug\Livraria.Application.dll
+C:\TCC\Livraria\Livraria.Application\bin\Debug\Livraria.Application.pdb
+C:\TCC\Livraria\Livraria.Application\bin\Debug\AutoMapper.dll
+C:\TCC\Livraria\Livraria.Application\bin\Debug\Livraria.Domain.dll
+C:\TCC\Livraria\Livraria.Application\bin\Debug\Livraria.Domain.pdb
+C:\TCC\Livraria\Livraria.Application\bin\Debug\AutoMapper.xml
+C:\TCC\Livraria\Livraria.Application\obj\Debug\Livraria.Application.csprojResolveAssemblyReference.cache
+C:\TCC\Livraria\Livraria.Application\obj\Debug\Livraria.Application.dll
+C:\TCC\Livraria\Livraria.Application\obj\Debug\Livraria.Application.pdb

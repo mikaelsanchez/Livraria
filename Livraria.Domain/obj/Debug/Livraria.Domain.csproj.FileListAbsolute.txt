@@ -1,0 +1,4 @@
+C:\TCC\Livraria\Livraria.Domain\bin\Debug\Livraria.Domain.dll
+C:\TCC\Livraria\Livraria.Domain\bin\Debug\Livraria.Domain.pdb
+C:\TCC\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.dll
+C:\TCC\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.pdb

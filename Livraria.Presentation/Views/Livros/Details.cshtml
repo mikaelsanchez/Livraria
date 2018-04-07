@@ -1,0 +1,90 @@
+﻿@model Livraria.Presentation.ViewModels.LivroViewModel
+
+@{
+    ViewBag.Title = "Detalhe";
+}
+
+<h2>Detalhe</h2>
+
+<div>
+    <h4>LivroViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SubTitulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubTitulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Autor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Autor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Editora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Editora)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ano)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ano)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Edicao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Edicao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataCadastro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataCadastro)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.LivroId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
